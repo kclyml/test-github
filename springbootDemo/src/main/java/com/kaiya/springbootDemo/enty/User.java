@@ -22,4 +22,6 @@ public class User implements Serializable {
 	private String nickName;
 	@Column(nullable = false)
 	private String regTime;
+	@Column(nullable = false)
+	private String gender;
 }
