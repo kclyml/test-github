@@ -14,6 +14,7 @@ public class HelloController {
 		Map map = new HashMap<String, String>();
 		map.put("法号", "空虚大师");
 		map.put("性别", "男");
+		System.out.println(map);
 		return map;
 	}
 }
