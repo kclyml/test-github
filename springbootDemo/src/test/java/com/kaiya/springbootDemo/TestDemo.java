@@ -8,6 +8,6 @@ public class TestDemo {
 	
 	@Test
 	public void demo1(){
-		
+		int a = 1;
 	}
 }
